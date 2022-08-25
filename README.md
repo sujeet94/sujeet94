@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujeet94
-- 👀 I’m interested in javascript, Angular, React.
-- 🌱 I’m currently learning React, VueJS.
+- 👀 I’m interested in javascript, I work on angular and Vue.
+- 🌱 I’m currently learning React, NodeJS.
 - 📫 How to reach me jeet.singh412@gmail.com
 
 <!---
